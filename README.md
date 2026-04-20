@@ -1,2 +1,4 @@
 # git-repo-1
-ny first repo
+my first repo
+
+my first readme.

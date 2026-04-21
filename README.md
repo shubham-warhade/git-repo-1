@@ -1,4 +1,2 @@
-# git-repo-1
+# Practicle Lab
 my first repo
-
-my first readme.
